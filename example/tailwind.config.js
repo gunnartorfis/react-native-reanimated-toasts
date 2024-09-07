@@ -7,4 +7,5 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  safelist: ['bg-yellow-200'],
 };
